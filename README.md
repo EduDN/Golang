@@ -264,7 +264,6 @@
   <br/>
 </div>
 
-**[⬆ Back to top](#table-of-contents)**
 
 <div align="center">
   <h2>Contributors</h2>
